@@ -40,10 +40,11 @@ The primary objective of this case study is to perform Exploratory Data Analysis
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The last payment value’s ratio the installment amount is comparatively lower for the defaulting customers
+- For the defaulting customers, the interest rate distribution is on higher end compared to the existing customer
+- Customers who are likely going to default prefer loans with higher term compared to non defaulting customers.
+- Customers getting loans with lower grades (i.e. B or lower) are likely going to default compared to higher grade ones
+- The customers who are highly unlikely to default have very rounded loan amounts (i.e. in the multiples of 1000s) and comparatively of bigger values as well.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
